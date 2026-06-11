@@ -81,6 +81,4 @@ Procedural models are used by default. Drop `.glb` files into `public/models/` a
 register them in `src/components/3D/modelRegistry.ts` to use photoreal assets — it
 falls back to procedural automatically if a file is missing.
 
----
 
-🤖 Built with [Claude Code](https://claude.com/claude-code)
